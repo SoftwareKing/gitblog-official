@@ -244,6 +244,11 @@ p.m_2 {
 	margin-top: 30px;
 	border-radius: 5px;
 }
+
+.banner_btn2 {
+	margin-left:10px;
+    background:#2e82ff;
+}
 .banner_btn:hover {
 	background: #22967c;
 	color: #fff;
