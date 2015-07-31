@@ -1,4 +1,4 @@
-# gitblog-official
+# Gitblog官方网站
 
 
-gitblog official website
+[http://www.gitblog.cn](http://www.gitblog.cn/ "Gitblog")
